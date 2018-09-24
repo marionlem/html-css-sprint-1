@@ -4,6 +4,7 @@ body {background-color : rgb(224, 255, 255);
 	font-weight: lighter;
 
 }
-a {color : rgb(0, 255, 127);}
+a {color : rgb(0, 255, 127);
+font-size: 80px;}
 h1 {color : rgb(255, 105, 180);
 font-family: 'Unlock', cursive;}
