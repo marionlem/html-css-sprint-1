@@ -1,6 +1,6 @@
 body {background-color : rgb(224, 255, 255);
 	color : rgb(0, 0, 128);
-	font-family: 'Spirax', cursive;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: lighter;
 
 }
@@ -8,5 +8,9 @@ a {color : rgb(0, 255, 127);
 font-size: 40px;}
 h1 {color : rgb(255, 105, 180);
 font-family: 'Unlock', cursive;}
+
 h2 {color : rgb(160, 32, 240); 
-	font-family: 'Montserrat', sans-serif;}
+	font-family: 'Spirax', cursive;}
+
+h3 {color : rgb(160, 32, 240); 
+	font-family: 'Spirax', cursive;}
